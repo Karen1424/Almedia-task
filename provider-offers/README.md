@@ -33,7 +33,7 @@ $ npm install
 ```
 ## Create POST message for Provider1 offer
 ## URL http://localhost:3000/offer/crate-provider1-offer
-##body
+```body
 {
  "offers":[
             {
@@ -60,9 +60,9 @@ $ npm install
         ]
 }
 
-## Create POST message for Provider1 offer
-## URL http://localhost:3000/offer/crate-provider1-offer
-body
+## Create POST message for Provider2 offer
+## URL http://localhost:3000/offer/crate-provider2-offer
+```body
 {
     "campaign_id": 15828,
     "icon": "https://some.url",
